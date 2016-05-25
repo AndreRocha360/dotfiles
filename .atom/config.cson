@@ -1,0 +1,31 @@
+"*":
+  core:
+    disabledPackages: [
+      "pigments"
+    ]
+    ignoredNames: [
+      "node_modules"
+    ]
+    openEmptyEditorOnStart: false
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    fontSize: 12
+    invisibles:
+      eol: false
+    scrollPastEnd: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "4b79bdd4-9ddb-ea53-8d17-2a59af0f5e18"
+  "find-and-replace":
+    scrollToResultOnLiveSearch: true
+  "highlight-selected":
+    highlightBackground: true
+  linter: {}
+  "status-bar": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
